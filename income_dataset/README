@@ -1,0 +1,8 @@
+User Income Dataset
+
+5191 users annotated with their income through their SOC 3-digit occupation.
+
+Archive contains:
+Feature representation for each of the five feature categories: f-profile, f-shallow, f-demo, f-emo, f-topics
+Users mapped to their income: users-income
+Words for each topic: word-topics-200 
